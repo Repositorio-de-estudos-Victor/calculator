@@ -1,17 +1,9 @@
 <p align="center">
-  ![logo](https://user-images.githubusercontent.com/32309553/123451460-fcad2500-d5b3-11eb-933a-9731bdd3799c.png)
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=NLW&message=06&color=8257E5&labelColor=000000" alt="NLW Together 06" />
-  
-  <img src="https://img.shields.io/github/stars/rocketseat-education/nlw-06-reactjs?label=stars&message=MIT&color=8257E5&labelColor=000000" alt="Stars">
-
-  <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000" alt="License">   
+  <img alt="Calculator" src=".github/logo.png" width="160px">
 </p>
 
 <h1 align="center">
-    <img alt="Calculator" src=".github/cover.svg" />
+    <img alt="Calculator" src=".github/cover.png" />
 </h1>
 
 <br>
