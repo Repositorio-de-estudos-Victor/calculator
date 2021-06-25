@@ -50,9 +50,9 @@ export function Main() {
     } else {
       const equals = operationComing === '='
       const valuesChanged = [...values]
+
       try{
         valuesChanged[0] = eval(`${valuesChanged[0]} ${operation} ${valuesChanged[1]}`)
-
       } catch(e) {
         valuesChanged[0] = values[0]
       }
