@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { View} from 'react-native'
+import { View, StatusBar } from 'react-native'
 import { Button } from '../../components/Button'
 import { Display } from '../../components/Display'
 
@@ -69,6 +69,11 @@ export function Main() {
 
     return (
       <View style={styles.container}>
+        <StatusBar
+          barStyle="light-content"
+          backgroundColor="transparent"
+          translucent
+        />
         <Display value={displayValue} />
         <View style={styles.buttons}>
           <Button label='AC' triple onClick={clearMemory} />
