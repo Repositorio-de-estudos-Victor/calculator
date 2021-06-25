@@ -1,9 +1,5 @@
-<p align="center">
-  <img alt="Calculator" src=".github/logo.png" width="160px">
-</p>
-
 <h1 align="center">
-    <img alt="Calculator" src=".github/cover.png" />
+    <img alt="Calculator" src=".github/cover.png" width="500px"/>
 </h1>
 
 <br>
@@ -31,6 +27,7 @@ $ yarn
 
 # Instalar as dependências do ios
 $ cd ios
+$ pod install
 
 # Iniciar o projeto
 $ yarn ios
