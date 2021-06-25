@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Calculator" src=".github/logo.svg" width="160px">
+  ![logo](https://user-images.githubusercontent.com/32309553/123451460-fcad2500-d5b3-11eb-933a-9731bdd3799c.png)
 </p>
 
 <p align="center">
